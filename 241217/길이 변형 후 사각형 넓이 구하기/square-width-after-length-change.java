@@ -9,7 +9,7 @@ public class Main {
 
         width = width + 8;
         length = length * 3;
-        area = width * length;
+        int area = width * length;
 
         System.out.println(width);
         System.out.println(length);
